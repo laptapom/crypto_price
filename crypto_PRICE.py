@@ -3,10 +3,10 @@ import requests
 import time
 
 # 🔹 توکن ربات تلگرام (از BotFather دریافت کنید)
-TOKEN = "7204338966:AAFLYgQePQhhk7aRtRkLYo2cvo9CtrL2q4U"
+TOKEN = ""
 
 # 🔹 نام کاربری کانال (بدون @)
-CHAT_ID = "@nabze_market"
+CHAT_ID = "nabze_market"
 
 # 🔹 تعریف ربات تلگرام
 bot = telebot.TeleBot(TOKEN)
